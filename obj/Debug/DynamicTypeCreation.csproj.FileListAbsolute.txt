@@ -1,0 +1,6 @@
+C:\Users\Wiljan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\DynamicTypeCreation.exe.config
+C:\Users\Wiljan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\DynamicTypeCreation.exe
+C:\Users\Wiljan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\DynamicTypeCreation.pdb
+C:\Users\Wiljan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\DynamicTypeCreation.csprojResolveAssemblyReference.cache
+C:\Users\Wiljan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\DynamicTypeCreation.exe
+C:\Users\Wiljan\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\DynamicTypeCreation.pdb
